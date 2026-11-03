@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Sebastian!
 
 <!--
 **SebaInSoftware/SebaInSoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img
+    src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWxwZG1jcHoyeTVubWJpaTM0cXNlM2VwYzNwMzI4bjdhdG85Nzd3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v1HXrPzAtL4lGQ3YPC/giphy.webp"
+    alt="Aesthetic wallpaper GIF"
+    width="300"
+  />
+</p>
